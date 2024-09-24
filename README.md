@@ -15,7 +15,7 @@ Portfolio website/landing page.
 **Skills**
 ========
 
-* Programming languages: Python, JavaScript, C++, Java.
+* Programming languages: Python, JavaScript, GO,C++, Java.
 * Frameworks: React, JS, Angular
 *Databases: MySQL
 
