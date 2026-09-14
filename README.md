@@ -1,31 +1,48 @@
-# Olá, sou Maria Lina! 👋  
+# Portfólio Maria Lina
 
-## 🚀 Sobre Mim  
-Sou estudante de Sistemas de Informação, Atualmente, estou focada em aprimorar minhas habilidades em linguagens de back-end como Go e Java, além de expandir meu conhecimento em desenvolvimento Full-stack com HTML, CSS, JavaScript e PHP.  
+Portfólio pessoal de Maria Lina, estudante de Sistemas de Informação e desenvolvedora em formação. O projeto apresenta minha trajetória, minhas habilidades e projetos acadêmicos e pessoais na área de tecnologia.
 
-## 🔗 Links  
-[![portfolio](https://img.shields.io/badge/portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Marialinaa)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-lina-7b61b7235/)  
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marialinaa)  
+## Sobre mim
 
-## 🛠 Habilidades  
-- **Front-end:** HTML, CSS, JavaScript, PHP  
-- **Back-end:** C++, Go, Java, JavaScript  
-- **Gerenciamento de Produtos:** Práticas de desenvolvimento de produto  
+Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software, com foco em tecnologias back-end como Go, Java, PHP e C++, além de desenvolvimento web com HTML, CSS e JavaScript. Meu objetivo é me tornar uma desenvolvedora Full-stack.
 
-## 🌟 Estrutura do Meu Portfólio  
-- **Início:** Uma introdução sobre mim. 
-- **Especialidades:** Uma visão geral das minhas habilidades em front-end, back-end e gerenciamento de produtos.  
-- **Sobre:** Informações pessoais e minha trajetória acadêmica.  
-- **Projetos:** Uma galeria de projetos que estou desenvolvendo ou que já finalizei.  
-- **Fale Comigo:** Um formulário de contato para facilitar a comunicação.  
+## Tecnologias e habilidades
 
-## 📫 Como Me Contatar  
-- **E-mail:** [mariaxxlina@gmail.com](mailto:mariaxxlina@gmail.com)  
-- **LinkedIn:** [Maria Lina](https://www.linkedin.com/in/maria-lina-7b61b7235/)  
-- **GitHub:** [Marialinaa](https://github.com/Marialinaa)  
+- **Desenvolvimento web:** HTML, CSS, JavaScript, Bootstrap e Tailwind CSS
+- **Back-end:** Go, Java, PHP e C++
+- **Ferramentas:** Git e GitHub
+- **Produto:** práticas de Product Owner, Scrum e organização de projetos
 
-## ⚡️ Curiosidades  
-- Estou sempre em busca de novos desafios.
+## Estrutura do portfólio
 
-- Meu objetivo é me tornar uma desenvolvedora Full-stack completa!  
+- **Início:** apresentação profissional e chamada para ação
+- **Sobre:** formação, objetivos e redes profissionais
+- **Projetos:** projetos com links para os respectivos repositórios
+- **Contato:** formulário e informações para contato
+
+Há duas versões da página disponíveis:
+
+- [Versão Bootstrap](bootstrap/index.html)
+- [Versão Tailwind CSS](tailwind%20css/index.html)
+- [Portfólio publicado no GitHub Pages](https://marialinaa.github.io/Portofolio/)
+
+## Currículo
+
+[Baixar currículo de Maria Lina](curriculo_maria_linaa.pdf)
+
+## Projetos em destaque
+
+- [Projeto Aura Hub](https://github.com/Marialinaa/Projeto-Aura-hub)
+- [Aura Hub API](https://github.com/Marialinaa/aura-hubb-api)
+- [Sistemas Distribuídos](https://github.com/Marialinaa/Sistema-distribuidos-)
+- [Oficina Mecânica](https://github.com/Marialinaa/projeto_ger_oficina_mec)
+
+## Contato
+
+- **E-mail:** [mariaxxlina@gmail.com](mailto:mariaxxlina@gmail.com)
+- **LinkedIn:** [Maria Lina](https://www.linkedin.com/in/maria-lina-7b61b7235/)
+- **GitHub:** [Marialinaa](https://github.com/Marialinaa)
+
+## Licença
+
+Este projeto está disponível sob a [licença MIT](LICENSE).
