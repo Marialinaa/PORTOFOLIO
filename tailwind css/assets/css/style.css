@@ -1,0 +1,34 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .animate-float {
+        animation: float 2s ease-in-out infinite alternate;
+    }
+}
+
+@keyframes float {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+
+.site-logo {
+    display: block;
+    width: 130px;
+    max-width: 100%;
+    height: auto;
+    max-height: 58px;
+    object-fit: contain;
+}
+
+.portfolio-item {
+    background-color: #20252f;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.portfolio-item:hover {
+    background-position: center;
+}
